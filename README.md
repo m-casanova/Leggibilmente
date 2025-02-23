@@ -1,4 +1,5 @@
 # Leggibilmente
+- Versione 1.106: aggiunta di alcuni caratteri
 - Versione 1.104: sistemazione di alcuni numeri
 - Versione 1.101: modifica di alcune caratteristiche
 
