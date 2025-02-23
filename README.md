@@ -1,4 +1,5 @@
 # Leggibilmente
+- Versione 1.104: sistemazione di alcuni numeri
 - Versione 1.101: modifica di alcune caratteristiche
 
 Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Leggibilmente/).
